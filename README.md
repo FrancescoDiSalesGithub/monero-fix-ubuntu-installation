@@ -3,4 +3,7 @@ script that fixes ubuntu installation
 
 # How to install
 
-Just run **install.sh** as root
+Just run **install.sh** as root:
+```
+bash install.sh
+```
